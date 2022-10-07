@@ -10,7 +10,7 @@
 
 1- Pour acceder à un dossier il faut utiliser la commande cd suivi de l'arborescence du dossier cherché, exemple cd /var/log.  
 2- Il suffit de faire cd ..  
-3- Pour avoir accès au dossier personnel il suffit de faire cd
+3- Pour avoir accès au dossier personnel il suffit de faire cd  
 4- le complément ".." permet d'aller dans le dossier parent (cd ..), pour retourner dans le dossier précédent il suffit d'ajouter "-" en argument à la commande cd  
 5- En essayant d'avoir accès au dossier /root ça me retourne "/root : Is a directory", je n'ai simplement pas les droits en tant que simple "user" pour y accéder.  
 6- L'utilisation de la commande sudo permettant d'executer un executable en tant que super admin or en utilisant sudo pour avoir accès à un dossier : sudo cd /root, c'est la commande cd est une commande "builtin", elle n'apparait donc pas dans les commandes executables par sudo. Il faut donc être directement connecté en tant que superuser avec un -sudo par exemple pour y avoir accès.  
