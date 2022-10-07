@@ -1,10 +1,10 @@
 # TP 1
 ## _Partie 2 : Prise en main_
--Le manuel
-1- Le manuel s’ouvre avec l’option “man” devant la commande voulant être étudié, dans notre cas which : man which. Which permettant d'afficher le chemin d'accès à un executable donné
-2-  Pour chercher un terme précis il suffit de faire un /”terme” une fois entré dans le manuel. 
- 3-  Pour quitter le manuel il suffit de faire q.
-4- En faisant man 6 intro (6 étant la section recherché), cette section correspond aux descriptions de fonctionnalités amusantes / jeux disponibles
+-Le manuel  
+1- Le manuel s’ouvre avec l’option “man” devant la commande voulant être étudié, dans notre cas which : man which. Which permettant d'afficher le chemin d'accès à un executable donné  
+2-  Pour chercher un terme précis il suffit de faire un /”terme” une fois entré dans le manuel.   
+ 3-  Pour quitter le manuel il suffit de faire q.  
+4- En faisant man 6 intro (6 étant la section recherché), cette section correspond aux descriptions de fonctionnalités amusantes / jeux disponibles.  
 
 -Navigation dans l'arborescence des fichers 
 
